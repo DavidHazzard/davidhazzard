@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DavidHazzard/davidhazzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,8 @@ Here are some ideas to get you started:
 ### :wave: Hello there!
 
 -  I am a Software Engineer focused on process optimization and system performance :chart_with_upwards_trend:
--  I'm currently working at Silverchair Science & Communications on their AI Team :robot:
--  I'm looking to expand my knowledge of system design and break into the world of technical contracting.
+-  I'm currently working at Silverchair Science & Communications on their AI Team :sparkles:
+-  I'm looking to expand my knowledge of system design and break into the world of technical contracting :robot:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/david-hazzard-4053bb1b3">
